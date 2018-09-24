@@ -3,7 +3,9 @@ Finding a more efficient solution of Vehicle Routing Problem using multiple algo
 
 The problem has been solved using 6 algorithms.
 -> Greedy Algorithm.
+
 -> Clarke Wright Series Algorithm.
+
 -> Clarke Wright Parallel Algorithm.
 
 Heuristic Algorithms
