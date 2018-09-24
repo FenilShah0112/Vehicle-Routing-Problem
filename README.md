@@ -22,3 +22,8 @@ Heuristic Algorithms
 
 
 Solutions are plotted on a graph and are stored in the form of PNG files in the output folder. The entire solution can also been on console.
+
+
+
+
+NOTE: The code is still a lot complicated with some unnecessary bits which needs to be worked on.
